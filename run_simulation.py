@@ -24,6 +24,7 @@ import os
 import sys
 import time
 import schedule
+import re as _re
 from datetime import datetime
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
@@ -46,18 +47,19 @@ SOURCE_MEETING_NAME       = "Masterclass on AI Based Investing with Akshay Gulat
 
 # Schedule: run_time (HH:MM) → exact target meeting name
 SCHEDULE = {
-    "11:57": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-    "12:27": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-    "12:57": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-    "13:27": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
-    "13:57": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-    "14:27": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-    "14:57": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-    "15:27": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-    "15:57": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-    "16:27": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-    "16:57": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-    "17:27": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+    "11:55": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+    "12:25": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+    "12:55": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+    "13:25": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+    "13:55": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+    "14:25": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+    "14:55": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+    "15:25": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+    "15:55": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+    "16:25": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+    "16:55": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+    "17:25": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+    "17:55": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
 }
 
 # Portal URLs
@@ -70,7 +72,7 @@ AUTH_STATE_FILE = "auth_state.json"
 #         saves a screenshot so you can verify it looks correct
 # False = runs for real, clicks "Start Simulation"
 # ─────────────────────────────────────────────────────────────
-DRY_RUN = False
+DRY_RUN = True
 
 
 # ─────────────────────────────────────────────────────────────
@@ -212,7 +214,8 @@ def run_simulation(target_meeting_name):
 
             # Step 1f: Click the target meeting
             print(f"   Selecting target meeting: {target_meeting_name}")
-            target_card = page.locator("h3").filter(has_text=target_meeting_name).first
+            # target_card = page.locator("h3").filter(has_text=_re.compile(_re.escape(target_meeting_name))).first
+            target_card = page.get_by_role("heading", name=target_meeting_name, exact=True).first
             target_card.scroll_into_view_if_needed()
             target_card.click()
             print("   ✅ Target meeting selected")
