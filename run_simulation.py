@@ -1,25 +1,3 @@
-"""
-Simulation Auto-Creator — admin.thefuture.university
-=====================================================
-Fully hardcoded. No sheet reading. No guessing.
-
-Schedule (run at these times):
-  11:57 → target: Gulati 12
-  12:27 → target: Gulati 12.5
-  12:57 → target: Gulati 1
-  13:27 → target: Gulati 1.5
-  13:57 → target: Gulati 2
-  14:27 → target: Gulati 2.5
-  ...etc
-
-Usage:
-  python3 run_simulation.py              ← runs forever, auto-triggers at scheduled times
-  python3 run_simulation.py 13:57        ← manual override for a specific slot
-
-On first run: log in with Google in the browser that opens.
-After that: runs silently (headless).
-"""
-
 import os
 import sys
 import time
@@ -72,7 +50,7 @@ AUTH_STATE_FILE = "auth_state.json"
 #         saves a screenshot so you can verify it looks correct
 # False = runs for real, clicks "Start Simulation"
 # ─────────────────────────────────────────────────────────────
-DRY_RUN = True
+DRY_RUN = False
 
 
 # ─────────────────────────────────────────────────────────────
