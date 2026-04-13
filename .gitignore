@@ -1,0 +1,11 @@
+.venv/
+<<<<<<< HEAD
+
+# kiwiskil
+.indexer/cache/
+=======
+node_modules/
+logs/
+>>>>>>> 7e3a667ed2431b003047ca3f6907eb926e5bf87e
+.env
+.env
