@@ -1,939 +1,1009 @@
 {
-  "runAt": "2026-04-08T08:35:24.261Z",
-  "completedAt": "2026-04-08T08:42:43.897Z",
-  "total": 133,
-  "success": 132,
-  "failed": 1,
+  "runAt": "2026-04-18T11:08:38.768Z",
+  "completedAt": "2026-04-18T11:17:23.027Z",
+  "total": 143,
+  "success": 143,
+  "failed": 0,
   "skipped": 0,
   "entries": [
     {
-      "timestamp": "2026-04-08T08:35:38.028Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-08T12:00",
-      "status": "SUCCESS",
-      "detail": "Slot row found in table"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:40.498Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-09T12:00",
-      "status": "SUCCESS",
-      "detail": "Slot row found in table"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:43.098Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-10T12:00",
-      "status": "SUCCESS",
-      "detail": "Slot row found in table"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:45.560Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-11T12:00",
-      "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:48.119Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-12T12:00",
-      "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:50.632Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-13T12:00",
-      "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:53.130Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-14T12:00",
-      "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:55.644Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-15T12:00",
-      "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:35:58.181Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-16T12:00",
-      "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:36:00.707Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
-      "date": "2026-04-17T12:00",
-      "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:36:03.230Z",
+      "timestamp": "2026-04-18T11:08:56.208Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
       "date": "2026-04-18T12:00",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:36:12.760Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-08T12:30",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:36:15.238Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-09T12:30",
-      "status": "SUCCESS",
-      "detail": "Slot row found in table"
-    },
-    {
-      "timestamp": "2026-04-08T08:36:17.700Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-10T12:30",
+      "timestamp": "2026-04-18T11:08:58.802Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-19T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:20.266Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-11T12:30",
+      "timestamp": "2026-04-18T11:09:01.385Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-20T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:22.788Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-12T12:30",
+      "timestamp": "2026-04-18T11:09:03.905Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-21T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:25.289Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-13T12:30",
+      "timestamp": "2026-04-18T11:09:06.418Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-22T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:27.781Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-14T12:30",
+      "timestamp": "2026-04-18T11:09:08.954Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-23T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:30.480Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-15T12:30",
+      "timestamp": "2026-04-18T11:09:11.488Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-24T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:33.170Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-16T12:30",
+      "timestamp": "2026-04-18T11:09:14.054Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-25T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:35.744Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
-      "date": "2026-04-17T12:30",
+      "timestamp": "2026-04-18T11:09:16.705Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-26T12:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:38.253Z",
+      "timestamp": "2026-04-18T11:09:19.227Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-27T12:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:09:21.805Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-28T12:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:09:38.010Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
       "date": "2026-04-18T12:30",
       "status": "SUCCESS",
+      "detail": "Slot row found in table"
+    },
+    {
+      "timestamp": "2026-04-18T11:09:40.482Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-19T12:30",
+      "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:36:59.764Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-08T13:00",
+      "timestamp": "2026-04-18T11:09:43.266Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-20T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:02.241Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-09T13:00",
+      "timestamp": "2026-04-18T11:09:45.787Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-21T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:04.702Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-10T13:00",
+      "timestamp": "2026-04-18T11:09:48.320Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-22T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:07.177Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-11T13:00",
+      "timestamp": "2026-04-18T11:09:50.822Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-23T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:09.686Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-12T13:00",
+      "timestamp": "2026-04-18T11:09:53.350Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-24T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:12.151Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-13T13:00",
+      "timestamp": "2026-04-18T11:09:55.908Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-25T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:14.599Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-14T13:00",
+      "timestamp": "2026-04-18T11:09:58.450Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-26T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:17.076Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-15T13:00",
+      "timestamp": "2026-04-18T11:10:01.013Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-27T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:19.551Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-16T13:00",
+      "timestamp": "2026-04-18T11:10:03.555Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-28T12:30",
       "status": "SUCCESS",
-      "detail": "Slot row found in table"
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:22.028Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
-      "date": "2026-04-17T13:00",
-      "status": "SUCCESS",
-      "detail": "Slot row found in table"
-    },
-    {
-      "timestamp": "2026-04-08T08:37:24.512Z",
+      "timestamp": "2026-04-18T11:10:16.131Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
       "date": "2026-04-18T13:00",
       "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:37:26.588Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
-      "date": "N/A",
-      "status": "FAILED",
-      "detail": "Unhandled error: page.goto: net::ERR_CONNECTION_CLOSED at https://admin.thefuture.university/masterclasses\nCall log:\n\u001b[2m  - navigating to \"https://admin.thefuture.university/masterclasses\", waiting until \"networkidle\"\u001b[22m\n"
+      "timestamp": "2026-04-18T11:10:18.592Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-19T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:45.698Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-08T14:00",
+      "timestamp": "2026-04-18T11:10:21.256Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-20T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:23.759Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-21T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:26.394Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-22T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:28.947Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-23T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:31.563Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-24T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:34.110Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-25T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:36.677Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-26T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:39.229Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-27T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:41.748Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-28T13:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:10:55.875Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-18T13:30",
       "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:37:48.174Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-09T14:00",
+      "timestamp": "2026-04-18T11:10:58.330Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-19T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:50.692Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-10T14:00",
+      "timestamp": "2026-04-18T11:11:00.960Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-20T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:53.258Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-11T14:00",
+      "timestamp": "2026-04-18T11:11:03.481Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-21T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:55.765Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-12T14:00",
+      "timestamp": "2026-04-18T11:11:06.020Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-22T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:37:58.279Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-13T14:00",
+      "timestamp": "2026-04-18T11:11:08.537Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-23T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:00.778Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-14T14:00",
+      "timestamp": "2026-04-18T11:11:11.047Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-24T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:03.342Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-15T14:00",
+      "timestamp": "2026-04-18T11:11:13.777Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-25T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:05.844Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-16T14:00",
+      "timestamp": "2026-04-18T11:11:16.413Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-26T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:08.393Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
-      "date": "2026-04-17T14:00",
+      "timestamp": "2026-04-18T11:11:19.071Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-27T13:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:10.911Z",
+      "timestamp": "2026-04-18T11:11:21.735Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-28T13:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:11:35.744Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
       "date": "2026-04-18T14:00",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:38:19.554Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-08T14:30",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:38:22.030Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-09T14:30",
+      "timestamp": "2026-04-18T11:11:38.197Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-19T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:24.596Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-10T14:30",
+      "timestamp": "2026-04-18T11:11:40.838Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-20T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:27.165Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-11T14:30",
+      "timestamp": "2026-04-18T11:11:43.365Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-21T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:29.663Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-12T14:30",
+      "timestamp": "2026-04-18T11:11:45.963Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-22T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:32.198Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-13T14:30",
+      "timestamp": "2026-04-18T11:11:48.521Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-23T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:34.693Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-14T14:30",
+      "timestamp": "2026-04-18T11:11:51.051Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-24T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:37.243Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-15T14:30",
+      "timestamp": "2026-04-18T11:11:53.673Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-25T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:39.738Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-16T14:30",
+      "timestamp": "2026-04-18T11:11:56.188Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-26T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:42.277Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
-      "date": "2026-04-17T14:30",
+      "timestamp": "2026-04-18T11:11:58.773Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-27T14:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:44.783Z",
+      "timestamp": "2026-04-18T11:12:01.386Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-28T14:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:12:17.007Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
       "date": "2026-04-18T14:30",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:38:53.405Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-08T15:00",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:38:55.880Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-09T15:00",
+      "timestamp": "2026-04-18T11:12:19.497Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-19T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:38:58.424Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-10T15:00",
+      "timestamp": "2026-04-18T11:12:22.078Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-20T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:01.018Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-11T15:00",
+      "timestamp": "2026-04-18T11:12:24.591Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-21T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:03.517Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-12T15:00",
+      "timestamp": "2026-04-18T11:12:27.153Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-22T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:06.027Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-13T15:00",
+      "timestamp": "2026-04-18T11:12:29.674Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-23T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:08.532Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-14T15:00",
+      "timestamp": "2026-04-18T11:12:32.224Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-24T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:11.034Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-15T15:00",
+      "timestamp": "2026-04-18T11:12:34.857Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-25T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:13.552Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-16T15:00",
+      "timestamp": "2026-04-18T11:12:37.508Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-26T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:16.070Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
-      "date": "2026-04-17T15:00",
+      "timestamp": "2026-04-18T11:12:40.074Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-27T14:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:18.605Z",
+      "timestamp": "2026-04-18T11:12:42.727Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-28T14:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:12:54.990Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
       "date": "2026-04-18T15:00",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:39:27.377Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-08T15:30",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:39:29.824Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-09T15:30",
+      "timestamp": "2026-04-18T11:12:57.673Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-19T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:32.335Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-10T15:30",
+      "timestamp": "2026-04-18T11:13:00.242Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-20T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:34.920Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-11T15:30",
+      "timestamp": "2026-04-18T11:13:02.790Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-21T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:37.419Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-12T15:30",
+      "timestamp": "2026-04-18T11:13:05.374Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-22T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:39.938Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-13T15:30",
+      "timestamp": "2026-04-18T11:13:07.910Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-23T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:42.437Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-14T15:30",
+      "timestamp": "2026-04-18T11:13:10.460Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-24T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:44.949Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-15T15:30",
+      "timestamp": "2026-04-18T11:13:12.991Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-25T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:47.470Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-16T15:30",
+      "timestamp": "2026-04-18T11:13:15.581Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-26T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:50.004Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
-      "date": "2026-04-17T15:30",
+      "timestamp": "2026-04-18T11:13:18.110Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-27T15:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:39:52.499Z",
+      "timestamp": "2026-04-18T11:13:20.695Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-28T15:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:13:33.330Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
       "date": "2026-04-18T15:30",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:40:00.913Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-08T16:00",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:40:03.389Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-09T16:00",
+      "timestamp": "2026-04-18T11:13:35.804Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-19T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:05.987Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-10T16:00",
+      "timestamp": "2026-04-18T11:13:38.315Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-20T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:08.500Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-11T16:00",
+      "timestamp": "2026-04-18T11:13:40.885Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-21T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:11.003Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-12T16:00",
+      "timestamp": "2026-04-18T11:13:43.482Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-22T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:13.497Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-13T16:00",
+      "timestamp": "2026-04-18T11:13:46.117Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-23T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:16.000Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-14T16:00",
+      "timestamp": "2026-04-18T11:13:48.645Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-24T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:18.497Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-15T16:00",
+      "timestamp": "2026-04-18T11:13:51.235Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-25T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:21.000Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-16T16:00",
+      "timestamp": "2026-04-18T11:13:53.780Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-26T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:23.554Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
-      "date": "2026-04-17T16:00",
+      "timestamp": "2026-04-18T11:13:56.421Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-27T15:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:26.052Z",
+      "timestamp": "2026-04-18T11:13:58.968Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-28T15:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:14:11.067Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
       "date": "2026-04-18T16:00",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:40:34.779Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-08T16:30",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:40:37.238Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-09T16:30",
+      "timestamp": "2026-04-18T11:14:13.629Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-19T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:39.727Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-10T16:30",
+      "timestamp": "2026-04-18T11:14:16.149Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-20T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:42.309Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-11T16:30",
+      "timestamp": "2026-04-18T11:14:18.699Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-21T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:44.808Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-12T16:30",
+      "timestamp": "2026-04-18T11:14:21.346Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-22T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:47.327Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-13T16:30",
+      "timestamp": "2026-04-18T11:14:23.974Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-23T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:49.823Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-14T16:30",
+      "timestamp": "2026-04-18T11:14:26.500Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-24T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:52.325Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-15T16:30",
+      "timestamp": "2026-04-18T11:14:29.030Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-25T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:54.838Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-16T16:30",
+      "timestamp": "2026-04-18T11:14:31.632Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-26T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:57.365Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
-      "date": "2026-04-17T16:30",
+      "timestamp": "2026-04-18T11:14:34.165Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-27T16:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:40:59.893Z",
+      "timestamp": "2026-04-18T11:14:36.686Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-28T16:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:14:49.967Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
       "date": "2026-04-18T16:30",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:41:08.403Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-08T17:00",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:41:10.868Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-09T17:00",
+      "timestamp": "2026-04-18T11:14:52.428Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-19T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:13.415Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-10T17:00",
+      "timestamp": "2026-04-18T11:14:55.014Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-20T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:15.944Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-11T17:00",
+      "timestamp": "2026-04-18T11:14:57.603Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-21T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:18.446Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-12T17:00",
+      "timestamp": "2026-04-18T11:15:00.120Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-22T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:20.984Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-13T17:00",
+      "timestamp": "2026-04-18T11:15:02.669Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-23T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:23.487Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-14T17:00",
+      "timestamp": "2026-04-18T11:15:05.210Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-24T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:25.994Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-15T17:00",
+      "timestamp": "2026-04-18T11:15:07.800Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-25T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:28.520Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-16T17:00",
+      "timestamp": "2026-04-18T11:15:10.337Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-26T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:31.027Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
-      "date": "2026-04-17T17:00",
+      "timestamp": "2026-04-18T11:15:12.891Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-27T16:30",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:33.544Z",
+      "timestamp": "2026-04-18T11:15:15.656Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-28T16:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:15:31.284Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
       "date": "2026-04-18T17:00",
       "status": "SUCCESS",
-      "detail": "Toast confirmed: Masterclass Slot Created"
-    },
-    {
-      "timestamp": "2026-04-08T08:41:43.857Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-08T17:30",
-      "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:41:46.328Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-09T17:30",
+      "timestamp": "2026-04-18T11:15:33.888Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-19T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:48.833Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-10T17:30",
+      "timestamp": "2026-04-18T11:15:36.422Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-20T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:51.330Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-11T17:30",
+      "timestamp": "2026-04-18T11:15:38.993Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-21T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:53.834Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-12T17:30",
+      "timestamp": "2026-04-18T11:15:41.702Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-22T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:56.346Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-13T17:30",
+      "timestamp": "2026-04-18T11:15:44.341Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-23T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:41:58.843Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-14T17:30",
+      "timestamp": "2026-04-18T11:15:49.820Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-24T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:01.353Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-15T17:30",
+      "timestamp": "2026-04-18T11:15:52.357Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-25T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:03.867Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-16T17:30",
+      "timestamp": "2026-04-18T11:15:54.970Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-26T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:06.372Z",
-      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
-      "date": "2026-04-17T17:30",
+      "timestamp": "2026-04-18T11:15:57.641Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-27T17:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:08.902Z",
+      "timestamp": "2026-04-18T11:16:00.163Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-28T17:00",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:15.645Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
       "date": "2026-04-18T17:30",
       "status": "SUCCESS",
+      "detail": "Slot row found in table"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:18.086Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-19T17:30",
+      "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:17.842Z",
+      "timestamp": "2026-04-18T11:16:20.868Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-20T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:23.398Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-21T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:25.907Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-22T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:28.464Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-23T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:30.980Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-24T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:33.646Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-25T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:36.175Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-26T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:38.709Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-27T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:41.333Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-28T17:30",
+      "status": "SUCCESS",
+      "detail": "Toast confirmed: Masterclass Slot Created"
+    },
+    {
+      "timestamp": "2026-04-18T11:16:56.039Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-08T18:00",
+      "date": "2026-04-18T18:00",
       "status": "SUCCESS",
       "detail": "Slot row found in table"
     },
     {
-      "timestamp": "2026-04-08T08:42:20.305Z",
+      "timestamp": "2026-04-18T11:16:58.575Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-09T18:00",
+      "date": "2026-04-19T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:22.818Z",
+      "timestamp": "2026-04-18T11:17:01.304Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-10T18:00",
+      "date": "2026-04-20T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:25.324Z",
+      "timestamp": "2026-04-18T11:17:03.847Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-11T18:00",
+      "date": "2026-04-21T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:27.834Z",
+      "timestamp": "2026-04-18T11:17:06.362Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-12T18:00",
+      "date": "2026-04-22T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:30.341Z",
+      "timestamp": "2026-04-18T11:17:08.863Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-13T18:00",
+      "date": "2026-04-23T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:32.851Z",
+      "timestamp": "2026-04-18T11:17:11.419Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-14T18:00",
+      "date": "2026-04-24T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:35.370Z",
+      "timestamp": "2026-04-18T11:17:14.071Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-15T18:00",
+      "date": "2026-04-25T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:37.884Z",
+      "timestamp": "2026-04-18T11:17:16.670Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-16T18:00",
+      "date": "2026-04-26T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:40.436Z",
+      "timestamp": "2026-04-18T11:17:19.334Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-17T18:00",
+      "date": "2026-04-27T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     },
     {
-      "timestamp": "2026-04-08T08:42:42.950Z",
+      "timestamp": "2026-04-18T11:17:21.935Z",
       "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
-      "date": "2026-04-18T18:00",
+      "date": "2026-04-28T18:00",
       "status": "SUCCESS",
       "detail": "Toast confirmed: Masterclass Slot Created"
     }

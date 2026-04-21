@@ -1,0 +1,102 @@
+{
+  "runAt": "2026-04-21T13:23:49.827Z",
+  "completedAt": "2026-04-21T13:28:39.287Z",
+  "targetDate": "2026-04-22",
+  "total": 13,
+  "success": 0,
+  "failed": 13,
+  "skipped": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-21T13:24:15.733Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:24:37.308Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 12.5",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:24:59.065Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:25:21.032Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 1.5",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:25:43.224Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:26:04.760Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 2.5",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:26:26.703Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:26:49.008Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 3.5",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:27:11.109Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:27:33.360Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 4.5",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:27:55.744Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:28:17.247Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 5.5",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    },
+    {
+      "timestamp": "2026-04-21T13:28:39.000Z",
+      "masterclass": "Masterclass on AI Based Super Investing with Akshay Gulati 6",
+      "date": "2026-04-22",
+      "status": "FAILED",
+      "detail": "ACTIVE PAID toggle uncertain — check manually"
+    }
+  ]
+}
