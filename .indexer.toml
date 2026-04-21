@@ -1,0 +1,21 @@
+[llm]
+provider = "groq/llama-3.1-8b-instant"
+api_key_env = "GROQ_API_KEY"
+
+[indexer]
+wiki_dir = "wiki"
+ignore = [
+    "node_modules",
+    ".venv",
+    "dist",
+    "build",
+    "__pycache__",
+    "*.test.*",
+]
+max_tokens_per_batch = 8000
+merge_threshold = 2
+
+[hooks]
+pre_commit = true
+synthesize_commit_message = true
+deep = true

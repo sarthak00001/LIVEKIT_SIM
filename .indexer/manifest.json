@@ -1,0 +1,61 @@
+{
+  "last_indexed_commit": "a3c6c8f7c38a53f6933442d53ddfa4a2b19fa4e1",
+  "indexed_at": "2026-04-21T14:32:33.767382+00:00",
+  "files": {
+    "create_meetings.py": {
+      "hash": "sha256:d53311447dd7827ff54edd85ff66ed79e505e128259331b3e7d8486eecb3e4c1",
+      "wiki_page": "wiki/..md",
+      "component_ids": []
+    },
+    "create_slots.js": {
+      "hash": "sha256:f1459f7021df57fb3e4a935edc4433cc2dfbad1646f879840e32bf0ceba216c1",
+      "wiki_page": "wiki/..md",
+      "component_ids": []
+    },
+    "login.py": {
+      "hash": "sha256:1f98c3f62eebff2c03af6976b25cf5381c52ffcb77550faf7a430224458e7446",
+      "wiki_page": "wiki/..md",
+      "component_ids": []
+    },
+    "run_simulation.py": {
+      "hash": "sha256:b44fb78a25fccd488f84d32563ac92111f3adf11192b0f6fb30b8078b37ee1e8",
+      "wiki_page": "wiki/..md",
+      "component_ids": []
+    },
+    "test.py": {
+      "hash": "sha256:7c5054c62850d19dfd865edd500176e42cec0306d26d28491fb07876ae388de9",
+      "wiki_page": "wiki/..md",
+      "component_ids": []
+    },
+    "activate_slots.js": {
+      "hash": "sha256:9e269b58087888a38ee7fc7e002bc2054166a6eb77dad50d5756a3f44c13209a",
+      "wiki_page": "wiki/..md",
+      "component_ids": [
+        "activate_slots.js::getTomorrow",
+        "activate_slots.js::formatReadable",
+        "activate_slots.js::log",
+        "activate_slots.js::runDryRun",
+        "activate_slots.js::saveAuthState",
+        "activate_slots.js::activateSlotForMasterclass",
+        "activate_slots.js::runLive"
+      ]
+    },
+    "app.ts": {
+      "hash": "sha256:1f0be08def6ae71d4294cdd0dbe7e20ab8655d5250559cf24c2051be5285f752",
+      "wiki_page": "wiki/..md",
+      "component_ids": [
+        "app.ts::addNumbers"
+      ]
+    },
+    "debug_network.js": {
+      "hash": "sha256:602f58bbdd3962c4b59ca41f8875b2927fa1a56e181c4a29f56080ab76e5950c",
+      "wiki_page": "wiki/..md",
+      "component_ids": []
+    },
+    "debug_toggle.js": {
+      "hash": "sha256:87baab2a1b5d5c5213978c1095dad2374d64f7637f0e9ba26ff309ce45be1672",
+      "wiki_page": "wiki/..md",
+      "component_ids": []
+    }
+  }
+}

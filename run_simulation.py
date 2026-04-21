@@ -11,6 +11,7 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 # ─────────────────────────────────────────────────────────────
 
 # URLs — screen share first (main display), camera second
+<<<<<<< HEAD
 CAMERA_URL  = "https://tfu-media.s3.ap-south-1.amazonaws.com/recordings/akshay+screen+share+final.mp4"
 SCREENSH_URL = "https://tfu-media.s3.ap-south-1.amazonaws.com/recordings/akshay27thcamera.mp4"
 
@@ -18,6 +19,15 @@ SCREENSH_URL = "https://tfu-media.s3.ap-south-1.amazonaws.com/recordings/akshay2
 OFFSET_HOURS   = "0"
 OFFSET_MINUTES = "26"
 OFFSET_SECONDS = "40"
+=======
+CAMERA_URL  = "https://d2dr570fupgq12.cloudfront.net/recordings/processed/607baa66-1e8f-46b5-9d8e-aca30d424435-trim/index.m3u8"
+SCREENSH_URL = "https://d2dr570fupgq12.cloudfront.net/recordings/processed/fd479784-dd69-4f6e-95ec-0632ff9b1084-crop-1/index.m3u8"
+
+# Time offset — same for all slots
+OFFSET_HOURS   = "0"
+OFFSET_MINUTES = "30"
+OFFSET_SECONDS = "02"
+>>>>>>> company/main
 
 # Source meeting — always the same
 SOURCE_MASTERCLASS_FILTER = "Masterclass on AI Based Investing with Akshay Gulati"
@@ -167,17 +177,29 @@ def run_simulation(target_meeting_name):
             time.sleep(2)
 
             # Step 1d: Set date range to 27/03/2026
+<<<<<<< HEAD
             print("   Setting date range to 27/03/2026...")
+=======
+            print("   Setting date range to 05/04/2026...")
+>>>>>>> company/main
             date_inputs = page.locator("input[type='date']").all()
             if len(date_inputs) >= 2:
                 date_inputs[0].click()
                 date_inputs[0].evaluate("el => el.value = ''")
+<<<<<<< HEAD
                 date_inputs[0].fill("2026-03-27")
+=======
+                date_inputs[0].fill("2026-04-05")
+>>>>>>> company/main
                 date_inputs[0].press("Tab")
                 time.sleep(0.3)
                 date_inputs[1].click()
                 date_inputs[1].evaluate("el => el.value = ''")
+<<<<<<< HEAD
                 date_inputs[1].fill("2026-03-27")
+=======
+                date_inputs[1].fill("2026-04-05")
+>>>>>>> company/main
                 date_inputs[1].press("Tab")
                 time.sleep(2)
 

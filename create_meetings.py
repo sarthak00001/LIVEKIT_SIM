@@ -40,6 +40,7 @@ TODAY_TABLE_STR = TODAY.strftime("%d/%m")
 # ─── MEETING SCHEDULE ──────────────────────────────────────────────────────────
 
 MEETINGS = [
+<<<<<<< HEAD
     ("Masterclass on AI Based Super Investing with Akshay Gulati 12",   "12:00PM", "Livekit New 10"),
     ("Masterclass on AI Based Super Investing with Akshay Gulati 12.5", "12:30PM", "Livekit New 09"),
     ("Masterclass on AI Based Super Investing with Akshay Gulati 1",    "1:00PM",  "Livekit New 10"),
@@ -53,6 +54,21 @@ MEETINGS = [
     ("Masterclass on AI Based Super Investing with Akshay Gulati 5",    "5:00PM",  "Livekit New 10"),
     ("Masterclass on AI Based Super Investing with Akshay Gulati 5.5",  "5:30PM",  "Livekit New 09"),
     ("Masterclass on AI Based Super Investing with Akshay Gulati 6",    "6:00PM",  "Livekit New 10"),
+=======
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 12",   "12:00PM", "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 12.5", "12:30PM", "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 1",    "1:00PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 1.5",  "1:30PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 2",    "2:00PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 2.5",  "2:30PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 3",    "3:00PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 3.5",  "3:30PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 4",    "4:00PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 4.5",  "4:30PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 5",    "5:00PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 5.5",  "5:30PM",  "Livekit New 09"),
+    ("Masterclass on AI Based Super Investing with Akshay Gulati 6",    "6:00PM",  "Livekit New 09"),
+>>>>>>> company/main
 ]
 
 # ─── LOGGING ───────────────────────────────────────────────────────────────────

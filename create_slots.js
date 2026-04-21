@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 // ─── CLI FLAG ────────────────────────────────────────────────
 // Dry run:  node create_slots.js --dry-run
 // Live run: node create_slots.js
@@ -16,13 +17,20 @@ const DRY_RUN = process.argv.includes('--dry-run');
 const DRY_RUN = process.argv.includes('--dry-run');
 
 >>>>>>> 7e3a667ed2431b003047ca3f6907eb926e5bf87e
+=======
+const DRY_RUN = process.argv.includes('--dry-run');
+
+>>>>>>> company/main
 const CONFIG = {
   adminUrl: 'https://admin.thefuture.university/masterclasses',
 
   masterclasses: [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> company/main
       name: 'Masterclass on AI Based Super Investing with Akshay Gulati 12',
       slotTime: '12:00',
       whatsappLink: 'https://chat.whatsapp.com/DL383bbdPkmJXTvDChmrC8',
@@ -35,12 +43,16 @@ const CONFIG = {
       daysAhead: 10,
     },
     {
+<<<<<<< HEAD
 >>>>>>> 7e3a667ed2431b003047ca3f6907eb926e5bf87e
+=======
+>>>>>>> company/main
       name: 'Masterclass on AI Based Super Investing with Akshay Gulati 1',
       slotTime: '13:00',
       whatsappLink: 'https://chat.whatsapp.com/DL383bbdPkmJXTvDChmrC8',
       daysAhead: 10,
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
     // Add more masterclasses here:
     // {
@@ -50,6 +62,8 @@ const CONFIG = {
     //   daysAhead: 10,
     // },
 =======
+=======
+>>>>>>> company/main
     {
       name: 'Masterclass on AI Based Super Investing with Akshay Gulati 1.5',
       slotTime: '13:30',
@@ -110,7 +124,10 @@ const CONFIG = {
       whatsappLink: 'https://chat.whatsapp.com/DL383bbdPkmJXTvDChmrC8',
       daysAhead: 10,
     },
+<<<<<<< HEAD
 >>>>>>> 7e3a667ed2431b003047ca3f6907eb926e5bf87e
+=======
+>>>>>>> company/main
   ],
 
   authStatePath: path.join(__dirname, 'auth_state.json'),
